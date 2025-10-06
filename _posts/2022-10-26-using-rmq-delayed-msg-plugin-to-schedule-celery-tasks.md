@@ -11,7 +11,7 @@ excerpt: "Learn how to use RabbitMQ Delayed Message Plugin to schedule celery ta
 
 
 
-![Idea]({{ site.url }}/assets/images/celery-tasks-schedule-2/code-block.png)
+![Idea]({{ site.baseurl }}/assets/images/celery-tasks-schedule-2/code-block.png)
 
 > Note: The solutions mentioned in this article will only work if you are using Rabbitmq as the Broker.
 
@@ -25,7 +25,7 @@ The RabbitMQ delayed exchange plugin is used to implement a wait time between wh
 
 **Idea:**
 
-![Idea]({{ site.url }}/assets/images/celery-tasks-schedule-2/idea.png)
+![Idea]({{ site.baseurl }}/assets/images/celery-tasks-schedule-2/idea.png)
 
 
 We can declare an exchange with the type ‘x-delayed-message’ and then publish tasks with the custom header x-delay expressing a delay time for the task in milliseconds. The message will be delivered to the respective queues after x-delay milliseconds.

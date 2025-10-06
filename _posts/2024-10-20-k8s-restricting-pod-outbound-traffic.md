@@ -11,7 +11,7 @@ tags: [kubernetes, egress, network-policies, security, networking]
 excerpt: "Learn how to control outbound traffic from Kubernetes pods using egress rules and network policies for enhanced security."
 ---
 
-![Egress Flow]({{ site.url }}/assets/images/egress/flow.jpeg)
+![Egress Flow]({{ site.baseurl }}/assets/images/egress/flow.jpeg)
 
 Have you ever encountered a scenario where you need to control outbound traffic from your Kubernetes pod? Specifically, how can you ensure that your pod only communicates with the services necessary for its operation? Today, I will discuss one way to control outbound traffic in Kubernetes using egress rules and network policies.
 
@@ -43,7 +43,7 @@ You can apply the following restrictions to a pod via egress rules:
 
 I have attached an example of an egress rule where a front-end application is restricted to communicate only with a back-end application and kube-dns (for resolving DNS names)
 
-![Egress YAML Example]({{ site.url }}/assets/images/egress/yaml.jpeg)
+![Egress YAML Example]({{ site.baseurl }}/assets/images/egress/yaml.jpeg)
 
 ---
 

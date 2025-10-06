@@ -222,7 +222,7 @@ Now the last part, "asyncio.run". It will get the event loop, run tasks until th
 
 The synchronous version took ≈ 120 sec for 100 names (for predicting the gender of 100 names). And for the same 100 names, the asynchronous version took ≈ 2 sec. Approximately 98% reduction in time.
 
-![Performance chart]({{ site.url }}/assets/images/async-python/image_2.png)
+![Performance chart]({{ site.baseurl }}/assets/images/async-python/image_2.png)
 
 **Note:** The performance of these scripts depends on your network also (My network is not that great, so maybe you will see a variation in speed if you are testing these scripts in your local ;) )
 

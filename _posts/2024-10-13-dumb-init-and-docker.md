@@ -11,7 +11,7 @@ tags: [docker, init, zombies, dumb-init, containers]
 excerpt: "Zombie processes, PID 1 responsibilities, and when to use dumb-init in Docker."
 ---
 
-![Dumb Init]({{ site.url }}/assets/images/dumb-init/dumb-init.jpeg)
+![Dumb Init]({{ site.baseurl }}/assets/images/dumb-init/dumb-init.jpeg)
 
 Have you ever heard of the zombie reaping problem or the need for an init system in Docker containers? If not, let me explain why it’s something you should consider next time you're running or building Docker images.
 

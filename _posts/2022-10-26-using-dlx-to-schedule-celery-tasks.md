@@ -9,7 +9,7 @@ categories: [Programming]
 tags: [celery, rabbitmq, dlx, scheduling]
 excerpt: "How to use RabbitMQ Dead Letter Exchanges (DLX) to schedule Celery tasks, with practical steps and caveats."
 ---
-![code-block]({{ site.url }}/assets/images/celery-tasks-schedule/code-block.png)
+![code-block]({{ site.baseurl }}/assets/images/celery-tasks-schedule/code-block.png)
 
 > Note: The solutions mentioned in this article will only work if you are using RabbitMQ as the Broker.
 
@@ -26,7 +26,7 @@ Messages from a queue can be “dead-lettered”; that is, republished to an exc
 
 ## Idea
 
-![Idea]({{ site.url }}/assets/images/celery-tasks-schedule/idea.png)
+![Idea]({{ site.baseurl }}/assets/images/celery-tasks-schedule/idea.png)
 
 
 We can declare a temp queue and add the `x-dead-letter-exchange` and `x-dead-letter-routing-key` argument property, setting it to the name of the destination queue. And we will publish tasks to the temp queue with the TTL (time to live) header. Once the TTL is expired, celery tasks will move from the temp queue to the destination queue so that the celery worker can process them.

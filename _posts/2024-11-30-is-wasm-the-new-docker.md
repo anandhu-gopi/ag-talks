@@ -11,7 +11,7 @@ tags: [wasm, wasi, docker, webassembly, containers, cross-platform]
 excerpt: "Exploring WebAssembly (WASM) and WASI to see if they could replace Docker for cross-platform application deployment."
 ---
 
-![WASM vs Docker]({{ site.url }}/assets/images/wasm-new-docker/wasm-new-docker.jpeg)
+![WASM vs Docker]({{ site.baseurl }}/assets/images/wasm-new-docker/wasm-new-docker.jpeg)
 
 A few days ago, I came across an article that used WASM to build and run apps. So, I decided to try it out and see how we can build apps with WASM and test whether it's the new Docker or not.
 
