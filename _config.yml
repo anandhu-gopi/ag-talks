@@ -9,7 +9,6 @@ header_pages:
   - portfolio.md
 
 # Build settings
-theme: minimal-mistakes-jekyll
 
 #Minimal Mistakes 
 email: anandhu.gopi97@gmail.com
