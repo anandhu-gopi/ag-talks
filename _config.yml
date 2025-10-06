@@ -1,6 +1,6 @@
 title: AG Talks
 url: "https://anandhu-gopi.github.io"
-baseurl: "/ag-talks"
+baseurl: "/ag-talks/"
 github_username:  anandhu-gopi
 linkedin_username: anandhu-gopi-691b35144
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
