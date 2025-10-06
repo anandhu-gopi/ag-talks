@@ -3,6 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anandhu-gopi
 linkedin_username: anandhu-gopi-691b35144
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 header_pages:
   - portfolio.md
