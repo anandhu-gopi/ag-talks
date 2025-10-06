@@ -9,7 +9,7 @@ tags: [python, async, aiohttp, programming]
 categories: [Programming]
 excerpt: "Learn how to make asynchronous HTTP requests using aiohttp in Python and see the performance improvements."
 ---
-![Fast](/assets/images/async-python/image_1.png)
+![Fast](../assets/images/async-python/image_1.png)
 
 
 ## What is async and how it's going to help us?
