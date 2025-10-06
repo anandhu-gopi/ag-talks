@@ -11,7 +11,7 @@ excerpt: "Strategies to handle OOM kills in Kubernetes and prevent brutal proces
 author_profile: true
 ---
 
-![Beat OOM Kills]({{ site.url }}/assets/images/beat-oom-kills/beat.jpeg)
+![Beat OOM Kills]({{ site.url }}{{ site.baseurl }}/assets/images/beat-oom-kills/beat.jpeg)
 
 Most people who have worked with Kubernetes have likely encountered the infamous OOM Kill at least once. In cases like when your process exceeds its memory limit, it receives a SIGKILL from the oom killer and is brutally terminated, often without any opportunity for cleanup.
 
