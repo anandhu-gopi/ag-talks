@@ -1,5 +1,5 @@
 title: AG Talks
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ag-talks"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anandhu-gopi
 linkedin_username: anandhu-gopi-691b35144
