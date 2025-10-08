@@ -2,5 +2,5 @@
 main:
   - title: "About"
     url: https://www.linkedin.com/in/anandhu-gopi-691b35144/
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "whoami"
+    url: /whoami/
