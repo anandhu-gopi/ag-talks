@@ -1,7 +1,7 @@
 ---
-title: "Portfolio"
+title: "whoami"
 layout: single
-permalink: /portfolio/
+permalink: /whoami/
 ---
 
 ## Hi, I'm Anandhu

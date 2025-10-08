@@ -1,6 +1,8 @@
 # ag-talks
 
-This is the GitHub repo for my personal site — where I write blog posts, share notes, and showcase my portfolio.  
+[anandhu-gopi.github.io/ag-talks](https://anandhu-gopi.github.io/ag-talks)
+
+This is the GitHub repo for my personal site — where I write blog posts, share notes.  
 Built with Jekyll + Minimal Mistakes (because I like Markdown and knowing exactly what I’m maintaining).
 
 Feel free to open issues/PRs if you spot typos, broken links, or have suggestions!

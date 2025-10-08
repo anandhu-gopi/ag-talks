@@ -7,7 +7,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 repository: anandhu-gopi/ag-talks
 
 header_pages:
-  - portfolio.md
+  - whoami.md
 
 # Build settings
 
