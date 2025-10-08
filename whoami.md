@@ -30,12 +30,13 @@ Lead Software Engineer with 7+ years of experience building **high-scale backend
 ---
 
 ### About Me
+
 - Uncle of 3, brother, son, and an engineer.  
 - In a complicated relationship with **RabbitMQ**.  
-- Recently developed a crush on **MySQL**.  
-- Love watching movies — all genres except horror (why pay to get scared?).  
-- Currently watching **Trailer Park Boys** and wondering why we can’t all have a friend like Bubbles.  
-- Greatest actor in the world? Easy. 👉 [Mohanlal](https://www.google.com/search?q=mohanlal).  
+- Fell for **MySQL** lately.  
+- Love watching movies — all genres but horror (I don’t pay to get scared).
+- Started watching  **Trailer Park Boys** recently and convinced the world needs more Bubbles.
+- Greatest actor in the world?  [Mohanlal](https://www.google.com/search?q=mohanlal).  
 
 ---
 
